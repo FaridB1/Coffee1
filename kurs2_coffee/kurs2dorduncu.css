@@ -1,0 +1,239 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    width:100%;
+    background-attachment: fixed;
+    background-image: linear-gradient(rgba(47, 23, 15, 0.65), rgba(47, 23, 15, 0.65)), url(https://startbootstrap.github.io/startbootstrap-business-casual/assets/img/bg.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.h1birinci{
+    text-align: center;
+    color: #e6a756;
+    padding-top: 70px;
+    font-family: "Raleway", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+
+}
+.h1birinci2{
+    text-align: center;
+    color: white;
+    font-size: 5.6rem;
+    font-weight: 100;
+    line-height: 4rem;
+    font-family: "Raleway", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+.uzun1{
+    width: 100%;
+    background-color:rgba(47, 23, 15, 0.93); 
+    margin-top:  85px; ;
+
+}
+.UL1{
+    /* display:inline-block; */
+    text-align: center;
+    padding: 30px;
+    color: white;
+}
+ul li{
+    display: inline-block;
+    margin: 30px;
+
+}
+.a1{
+    color: white;
+    text-decoration: none;
+}
+.a1:hover{
+   color: #a9adb2;
+   transition: 0.3s all;
+}
+.a2{
+    color: white;
+    text-decoration: none;
+}
+.a2:hover{
+    color: #a9adb2;
+    transition: 0.3s all;
+ }
+.a3{
+    color: white;
+    text-decoration: none;
+}
+.a3:hover{
+    color: #a9adb2;
+    transition: 0.3s all;
+ }
+.a4{
+    color: white;
+    text-decoration: none;
+}
+.a4:hover{
+    color: #a9adb2;
+    transition: 0.3s all;
+ }
+.dorduncu{
+    width: 100%;
+    height: 1030px;
+   
+    background-color: rgba(230, 167, 86, 0.9);
+    margin-top: 100px;
+    padding-top: 66px
+}
+.dorduncukicik{
+    width: 860px;
+    height: 950px;
+    background-color: #f6e1c5;
+    margin: auto;
+    position: relative;
+    border: #efbd7c solid;
+    border-radius: 10px;
+    
+
+}
+.icdiv{
+    width: 863px;
+    height: 955px;
+    background-color: rgba(230, 167, 86, 0.9);;
+    padding: 10px;
+    left: 300px;
+    position:relative;
+    border: #f7c788 solid;
+    border-radius: 10px;
+
+}
+.H2dorduncu{
+   
+    font-size: 1rem;
+    font-weight: 800;
+    font-family: "Raleway", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    line-height: 1.2;
+    margin-top: 40px;
+}
+.H2dorduncu2{
+   
+    font-size: 3.2rem;
+    font-weight: 90;
+    font-family: "Raleway", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    line-height: 1.2;
+    margin-top: 40px;
+    margin: auto;
+    color: rgb(80, 77, 77);
+}
+/* .ul1{
+    
+} */
+.img1{
+    width: 85%;
+    height: 450px;
+    margin-top: 140px;
+    margin-left: 110px;
+    /* float: right; */
+    position: relative;
+    margin-bottom: 60px;
+}
+.sekilust{
+    width: 950px;
+    height:360px ;
+    left: 310px;
+    margin-top: -160px;
+    border-radius: 8px;
+    background-color: #f6e1c5;
+    position:absolute;
+
+}
+.h2ust1{
+    display: block;
+    font-size: 1.2rem;
+    font-weight: 800;
+    font-family: "Raleway", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    line-height: 1.2;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.h2ust2{
+    display: block;
+    font-size: 3rem;
+    line-height: 0.4;
+    font-family: "Raleway", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-weight: 100;
+    margin-top: 30px;
+    margin-left: 30px; 
+    color: rgb(40, 39, 39);
+}
+.p1ust{
+    margin-top: 40px;
+    margin-left: 30px;
+    margin-right: 30px;
+    font-family: var(--bs-body-font-family);
+    font-size: 24x;
+    
+}
+.p1ust2{
+    margin-top: 40px;
+    margin-left: 30px;
+    margin-right: 30px;
+    font-family: var(--bs-body-font-family);
+    font-size: 19px;
+    color: rgb(40, 39, 39);
+
+}
+.uzun2{
+    width: 100%;
+    height: 150px;
+    background-color:rgba(47, 23, 15, 0.93); 
+    margin-top:  870px; 
+}
+.pAxir{
+    text-align: center;
+    color: white;
+    padding-top:70px ;
+}
+.i1{
+    word-spacing: 240px;
+     line-height: 20px;
+     color:  rgb(80, 77, 77);
+}
+.i2{
+    color:  rgb(80, 77, 77);
+}
+.ul2{
+     margin-left: 170px; 
+    font-size: 20px;
+    font-family: var(--bs-body-font-family);
+    color: var(--bs-body-color);
+  
+}
+.ul2 li{
+    border-bottom: 1px solid rgba(230, 167, 86, 0.5);
+}
+/* .u1{
+    color: #e6a756;
+   
+} */
+.str{
+    font-size: 1.7rem!important;
+    font-weight: bolder;
+
+}
+.pax{
+    font-family: var(--bs-body-font-family);
+    line-height: 2.3;
+font-style: italic;
+text-align: center!important;
+font-size: 1.2rem;
+
+}
+small{
+   line-height: 3;
+ 
+}
+.piki{
+    line-height: 3;
+    text-align: center;
+    color: var(--bs-body-color);
+  }  
+  .libir{
+    color: #e6a756!important;
+  }
